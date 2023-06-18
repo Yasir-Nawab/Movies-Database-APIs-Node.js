@@ -1,0 +1,14 @@
+{
+  "name": "javascriptnodeexpress",
+  "version": "1.0.0",
+  "description": "practice on node and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yasir ali",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
